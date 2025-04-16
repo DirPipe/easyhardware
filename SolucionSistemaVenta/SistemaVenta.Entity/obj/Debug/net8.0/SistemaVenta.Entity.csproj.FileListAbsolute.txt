@@ -1,0 +1,14 @@
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.deps.json
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.runtimeconfig.json
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\bin\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.AssemblyReference.cache
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfoInputs.cache
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.AssemblyInfo.cs
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\refint\SistemaVenta.Entity.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\SistemaVenta.Entity.genruntimeconfig.cache
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Entity\obj\Debug\net8.0\ref\SistemaVenta.Entity.dll

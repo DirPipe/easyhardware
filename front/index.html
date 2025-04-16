@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+</head>
+<body>
+
+    <nav id='menu'>
+        <input type='checkbox' id='responsive-menu' onclick='updatemenu()'><label></label>
+        <ul>
+          <li><a href='http://'>Home</a></li>
+          <li><a class='dropdown-arrow' href='http://'>Products</a>
+            <ul class='sub-menus'>
+              <li><a href='http://'>Products 1</a></li>
+              <li><a href='http://'>Products 2</a></li>
+              <li><a href='http://'>Products 3</a></li>
+              <li><a href='http://'>Products 4</a></li>
+            </ul>
+          </li>
+          <li><a href='http://'>About</a></li>
+          <li><a class='dropdown-arrow' href='http://'>Services</a>
+            <ul class='sub-menus'>
+              <li><a href='http://'>Services 1</a></li>
+              <li><a href='http://'>Services 2</a></li>
+              <li><a href='http://'>Services 3</a></li>
+            </ul>
+          </li>
+          <li><a href='http://'>Contact Us</a></li>
+        </ul>
+      </nav>
+
+      
+<h1>Gestion de Usuarios</h1>
+<a onclick="agregarcliente()" id="btnAgregar" class="myButton">Agregar Cliente</a>
+
+<table id="customers">
+  <tr>
+    <th>Nombre</th>
+    <th>Apellido</th>
+    <th>Email</th>
+    <th>Telefono</th>
+    <th>Acciones</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+    <td>Germany</td>
+        <td>
+            <a href="#" class="myButton">Editar</a>
+            <a href="#" class="myButton">Eliminar</a>
+        </td>
+  </tr>
+  <tr>
+    <td>Berglunds snabbköp</td>
+    <td>Christina Berglund</td>
+    <td>Sweden</td>
+    <td>Sweden</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+    <td>Mexico</td>
+  </tr>
+  <tr>
+    <td>Ernst Handel</td>
+    <td>Roland Mendel</td>
+    <td>Austria</td>
+    <td>Austria</td>
+  </tr>
+  <tr>
+    <td>Island Trading</td>
+    <td>Helen Bennett</td>
+    <td>UK</td>
+    <td>UK</td>
+  </tr>
+  
+</table>
+
+
+
+<!-- Modal -->
+<div id="modal" class="modale" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-header">
+        <h2>Please Login</h2>
+        <a onclick="cerrarmodal()" href="#" class="btn-close closemodale" aria-hidden="true">&times;</a>
+      </div>
+      <div class="modal-body">
+        <input type="text" name="u" placeholder="User" size="20" /><br>
+        <input type="text" name="p" placeholder="&bull;&bull;&bull;&bull;" size="20" /></div>
+      <div class="modal-footer">
+    
+  
+        <a href="#" class="btn" id="btn_ingresar">Login</a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+
+    function agregarcliente() {
+        // Mostrar el modal
+        modal =  document.getElementById("modal");
+        modal.setAttribute("class", "modal opened");
+        
+        alert("Hola, estoy en la funcion agregar cliente");
+    }
+
+    function cerrarmodal() {
+        // Mostrar el modal
+        modal =  document.getElementById("modal");
+        modal.setAttribute("class", "modal");
+        
+    
+    }
+    
+
+  </script>
+
+
+</body>
+</html>
+

@@ -1,0 +1,17 @@
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.deps.json
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfoInputs.cache
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.AssemblyInfo.cs
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.CoreCompileInputs.cache
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\refint\SistemaVenta.BLL.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.pdb
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\ref\SistemaVenta.BLL.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Entity.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Entity.pdb
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaV.93BC7325.Up2Date
