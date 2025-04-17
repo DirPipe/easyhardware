@@ -15,3 +15,4 @@ C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\bin\De
 C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\bin\Debug\net8.0\SistemaVenta.Entity.pdb
 C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.csproj.AssemblyReference.cache
 C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaV.93BC7325.Up2Date
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.BLL\obj\Debug\net8.0\SistemaVenta.BLL.sourcelink.json

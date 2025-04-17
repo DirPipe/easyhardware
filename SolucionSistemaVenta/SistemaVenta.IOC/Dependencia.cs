@@ -8,8 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SistemaVenta.DAL.DBContext;
 using Microsoft.EntityFrameworkCore;
-//using SistemaVenta.DAL.Interfaces;
-//using SistemaVenta.DAL.Implementacion;
+using SistemaVenta.DAL.Interfaces;
+using SistemaVenta.DAL.Implementacion;
 //using SistemaVenta.BLL.Interfaces;
 //using SistemaVenta.BLL.Implementacion;
 
@@ -22,6 +22,11 @@ namespace SistemaVenta.IOC
             // Configuración de la cadena de conexión
             services.AddDbContext<DbventaContext>(options =>
                 options.UseSqlServer(configuration.GetConnectionString("CadenaSQL")));
+
+            // inyeccion de los repositorios genéricos
+            services.AddTransient(typeof(IGenericRepository<>),typeof(GenericRepository<>));
+            services.AddScoped<IVentaRepository, VentaRepository>(); 
+
 
             // Inyección de dependencias para los repositorios y servicios
             //services.AddScoped<IProductoRepository, ProductoRepository>();

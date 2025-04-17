@@ -10,9 +10,4 @@
     <ProjectReference Include="..\SistemaVenta.Entity\SistemaVenta.Entity.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Implementacion\" />
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
-
 </Project>

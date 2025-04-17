@@ -13,3 +13,4 @@ C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.DAL\bin\De
 C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Entity.pdb
 C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
 C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaV.EE7A9206.Up2Date
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.sourcelink.json
