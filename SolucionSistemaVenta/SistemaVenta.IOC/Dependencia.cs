@@ -28,6 +28,7 @@ namespace SistemaVenta.IOC
             services.AddScoped<IVentaRepository, VentaRepository>();
 
             services.AddScoped<ICorreoService, CorreoService>();
+            services.AddScoped<IFireBaseService,FireBaseService>();
 
 
             // Inyección de dependencias para los repositorios y servicios
