@@ -1,3 +1,4 @@
+using SistemaVenta.AplicacionWeb.Utilidades.Automapper;
 using SistemaVenta.IOC;
 namespace SistemaVenta.AplicacionWeb
 {
@@ -14,6 +15,9 @@ namespace SistemaVenta.AplicacionWeb
 
             // Configuración de la cadena de conexión
             builder.Services.InyectarDependencia(builder.Configuration);
+
+            // Configuración de AutoMapper
+            builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
             var app = builder.Build();
 

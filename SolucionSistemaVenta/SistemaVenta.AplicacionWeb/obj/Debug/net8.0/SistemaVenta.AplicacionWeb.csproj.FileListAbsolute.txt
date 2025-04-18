@@ -280,3 +280,5 @@ C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.Aplicacion
 C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\obj\Debug\net8.0\SistemaVenta.AplicacionWeb.sourcelink.json
 C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\Firebase.Auth.dll
 C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\Firebase.Storage.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\luisf\Desktop\ProyectoWeb2\SolucionSistemaVenta\SistemaVenta.AplicacionWeb\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
