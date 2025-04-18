@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{51355621-19B3-4B2F-A9D3-ACFB670601AD}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51355621-19B3-4B2F-A9D3-ACFB670601AD}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B978841-826B-44ED-B40B-70F21A662121}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B978841-826B-44ED-B40B-70F21A662121}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3B978841-826B-44ED-B40B-70F21A662121}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.bll\\interfaces\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B978841-826B-44ED-B40B-70F21A662121}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\interfaces\\ifirebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,45 +38,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dependencia.cs",
-              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
-              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
-              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAcwCMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T19:04:16.589Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IFireBaseService.cs",
-              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
-              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Interfaces\\IFireBaseService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T18:59:25.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FireBaseService.cs",
-              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
-              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
-              "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\FireBaseService.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAmwGMAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T18:47:26.744Z",
-              "EditorCaption": ""
             }
           ]
         },

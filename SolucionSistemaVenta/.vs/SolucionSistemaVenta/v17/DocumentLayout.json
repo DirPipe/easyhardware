@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\utilidades\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\utilidades\\response\\genericresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\sistemaventa.aplicacionweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\sistemaventa.aplicacionweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericResponse.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Utilidades\\Response\\GenericResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T19:42:44.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SistemaVenta.AplicacionWeb",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T19:41:59.426Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"

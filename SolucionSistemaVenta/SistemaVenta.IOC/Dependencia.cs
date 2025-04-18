@@ -26,9 +26,16 @@ namespace SistemaVenta.IOC
             // inyeccion de los repositorios genéricos
             services.AddTransient(typeof(IGenericRepository<>),typeof(GenericRepository<>));
             services.AddScoped<IVentaRepository, VentaRepository>();
-
+            
+            // inyeccion funciones corre
             services.AddScoped<ICorreoService, CorreoService>();
+            // inyeccion firebase
             services.AddScoped<IFireBaseService,FireBaseService>();
+            // inyeccion de las utilidades
+            services.AddScoped<IUtilidadesService, UtilidadesService>();
+            // inyeccion roles           
+            services.AddScoped<IRolService, RolService>();
+
 
 
             // Inyección de dependencias para los repositorios y servicios
