@@ -987,6 +987,88 @@
       ]
     },
     {
+      "Route": "js/vistas/Usuario_Index.5qhl91xb0b.js",
+      "AssetFile": "js/vistas/Usuario_Index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Wla06hafRQySC0KkMF+fYwYkENYwbqVi1NFl0WvRyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 19:42:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5qhl91xb0b"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Wla06hafRQySC0KkMF+fYwYkENYwbqVi1NFl0WvRyU="
+        },
+        {
+          "Name": "label",
+          "Value": "js/vistas/Usuario_Index.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/vistas/Usuario_Index.js",
+      "AssetFile": "js/vistas/Usuario_Index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/Wla06hafRQySC0KkMF+fYwYkENYwbqVi1NFl0WvRyU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 19 Apr 2025 19:42:33 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/Wla06hafRQySC0KkMF+fYwYkENYwbqVi1NFl0WvRyU="
+        }
+      ]
+    },
+    {
       "Route": "js/vistas/chart-bar-demo.js",
       "AssetFile": "js/vistas/chart-bar-demo.js",
       "Selectors": [],

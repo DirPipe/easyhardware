@@ -14,9 +14,9 @@ namespace SistemaVenta.AplicacionWeb.Models.ViewModels
 
         public int? IdRol { get; set; }
 
-        public int? NombreRol { get; set; }
+        public string? NombreRol { get; set; }
 
-        public string? UrlFoto { get; set; }
+        public string? UrlFoto { get; set; }    
 
         public string? NombreFoto { get; set; }
 
