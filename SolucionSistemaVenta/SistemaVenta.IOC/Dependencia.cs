@@ -38,6 +38,9 @@ namespace SistemaVenta.IOC
             //inyeccion de usuarios
             services.AddScoped<IUsuarioService, UsuarioService>();
 
+            // inyeccion de negocio
+            services.AddScoped<INegocioService, NegocioService>();
+
 
 
             // Inyección de dependencias para los repositorios y servicios
