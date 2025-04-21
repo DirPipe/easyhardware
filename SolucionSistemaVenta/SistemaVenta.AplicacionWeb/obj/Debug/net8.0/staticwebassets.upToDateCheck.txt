@@ -9,6 +9,7 @@ wwwroot\img\undraw_profile_3.svg
 wwwroot\img\undraw_rocket.svg
 wwwroot\js\sb-admin-2.js
 wwwroot\js\sb-admin-2.min.js
+wwwroot\js\vistas\Categoria_Index.js
 wwwroot\js\vistas\chart-bar-demo.js
 wwwroot\js\vistas\chart-pie-demo.js
 wwwroot\js\vistas\datatables-demo.js
