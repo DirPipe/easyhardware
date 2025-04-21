@@ -17,7 +17,7 @@ namespace SistemaVenta.BLL.Implementacion
         private readonly IFireBaseService _fireBaseServicio;
       
 
-        public ProductoService(IGenericRepository<Producto> repositorio, FireBaseService fireBaseServicio)
+        public ProductoService(IGenericRepository<Producto> repositorio, IFireBaseService fireBaseServicio)
         {
             _repositorio = repositorio;
             _fireBaseServicio = fireBaseServicio;
@@ -68,7 +68,7 @@ namespace SistemaVenta.BLL.Implementacion
 
         }
 
-        public async Task<Producto> Editar(Producto entidad, Stream imagen = null)
+        public async Task<Producto> Editar(Producto entidad, Stream imagen = null, string NombreImagen = "")
         {
             Producto producto_existe = await _repositorio.Obtener(p => p.CodigoBarra == entidad.CodigoBarra && p.IdProducto != entidad.IdProducto);
 
@@ -87,6 +87,12 @@ namespace SistemaVenta.BLL.Implementacion
                 producto_para_editar.Stock = entidad.Stock;
                 producto_para_editar.Precio = entidad.Precio;
                 producto_para_editar.EsActivo = entidad.EsActivo;
+
+                if(producto_para_editar.NombreImagen == "")
+                {
+                    producto_para_editar.NombreImagen = NombreImagen;
+                }
+
 
                 if(imagen != null)
                 {
