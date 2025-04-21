@@ -42,6 +42,8 @@ namespace SistemaVenta.IOC
             services.AddScoped<INegocioService, NegocioService>();
             // inyeccion categoria
             services.AddScoped<ICategoriaService, CategoriaService>();
+            // inyeccion de productos
+            services.AddScoped<IProductoService, ProductoService>();
 
 
 
