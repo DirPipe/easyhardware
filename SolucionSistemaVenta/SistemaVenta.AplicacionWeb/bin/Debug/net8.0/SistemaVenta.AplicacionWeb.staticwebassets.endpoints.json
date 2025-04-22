@@ -1151,6 +1151,88 @@
       ]
     },
     {
+      "Route": "js/vistas/Nueva_Venta.1qz1q16dvq.js",
+      "AssetFile": "js/vistas/Nueva_Venta.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5/YuGgUMTcKZ6ROYAd9f6O8DCeTqFpaZ/VHJUeHpoCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:49:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1qz1q16dvq"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5/YuGgUMTcKZ6ROYAd9f6O8DCeTqFpaZ/VHJUeHpoCA="
+        },
+        {
+          "Name": "label",
+          "Value": "js/vistas/Nueva_Venta.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/vistas/Nueva_Venta.js",
+      "AssetFile": "js/vistas/Nueva_Venta.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5/YuGgUMTcKZ6ROYAd9f6O8DCeTqFpaZ/VHJUeHpoCA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 21 Apr 2025 20:49:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5/YuGgUMTcKZ6ROYAd9f6O8DCeTqFpaZ/VHJUeHpoCA="
+        }
+      ]
+    },
+    {
       "Route": "js/vistas/Producto_Index.iqkmc37aa6.js",
       "AssetFile": "js/vistas/Producto_Index.js",
       "Selectors": [],

@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\js\\vistas\\Negocio_Index.js"
     },
     {
+      "Id": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Nueva_Venta.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Nueva_Venta.js"
+    },
+    {
       "Id": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Producto_Index.js",
       "PackagePath": "staticwebassets\\js\\vistas\\Producto_Index.js"
     },

@@ -1,4 +1,5 @@
 ﻿using SistemaVenta.Entity;
+using System.Text.Json.Serialization;
 
 namespace SistemaVenta.AplicacionWeb.Models.ViewModels
 {
@@ -19,14 +20,15 @@ namespace SistemaVenta.AplicacionWeb.Models.ViewModels
 
         public string? NombreCliente { get; set; }
 
-        public decimal? SubTotal { get; set; }
+        public string? SubTotal { get; set; }
 
-        public decimal? ImpuestoTotal { get; set; }
+        public string? ImpuestoTotal { get; set; }
 
-        public decimal? Total { get; set; }
+        public string? Total { get; set; }
 
-        public DateTime? FechaRegistro { get; set; }
+        public string? FechaRegistro { get; set; }
 
+        [JsonIgnore] // agregado para romper bug de referencia en bluce infinito con respuesta 500
         public virtual ICollection<DetalleVenta> DetalleVenta { get; set; } = new List<DetalleVenta>();
 
     }

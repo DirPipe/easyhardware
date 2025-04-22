@@ -84,6 +84,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/luisf/Desktop/ProyectoWeb2/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Venta/HistorialVenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcSGlzdG9yaWFsVmVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luisf/Desktop/ProyectoWeb2/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Venta/NuevaVenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcTnVldmFWZW50YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/luisf/Desktop/ProyectoWeb2/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
