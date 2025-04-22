@@ -1069,6 +1069,88 @@
       ]
     },
     {
+      "Route": "js/vistas/Historial_Venta.01014catfe.js",
+      "AssetFile": "js/vistas/Historial_Venta.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZMrBflpCwsNGxscadRlx8hXuUdasKtForgTkkr4/794=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 18:22:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "01014catfe"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZMrBflpCwsNGxscadRlx8hXuUdasKtForgTkkr4/794="
+        },
+        {
+          "Name": "label",
+          "Value": "js/vistas/Historial_Venta.js"
+        }
+      ]
+    },
+    {
+      "Route": "js/vistas/Historial_Venta.js",
+      "AssetFile": "js/vistas/Historial_Venta.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZMrBflpCwsNGxscadRlx8hXuUdasKtForgTkkr4/794=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Apr 2025 18:22:57 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZMrBflpCwsNGxscadRlx8hXuUdasKtForgTkkr4/794="
+        }
+      ]
+    },
+    {
       "Route": "js/vistas/Negocio_Index.j6mstdbisp.js",
       "AssetFile": "js/vistas/Negocio_Index.js",
       "Selectors": [],

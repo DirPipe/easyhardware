@@ -1,5 +1,6 @@
 using SistemaVenta.AplicacionWeb.Utilidades.Automapper;
 using SistemaVenta.IOC;
+using System.Text.Json.Serialization;
 namespace SistemaVenta.AplicacionWeb
 {
     public class Program
@@ -7,8 +8,15 @@ namespace SistemaVenta.AplicacionWeb
         public static void Main(string[] args)
         {
 
-
             var builder = WebApplication.CreateBuilder(args);
+
+            // Agrega los servicios y configura las opciones de serialización JSON para evitar bug de ciclo perpetuo 500
+            builder.Services.AddControllersWithViews()
+                .AddJsonOptions(options =>
+                {
+                    options.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles;
+                });
+
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
@@ -18,6 +26,8 @@ namespace SistemaVenta.AplicacionWeb
 
             // Configuración de AutoMapper
             builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
+
+
 
             var app = builder.Build();
 

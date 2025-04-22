@@ -50,12 +50,12 @@ namespace SistemaVenta.BLL.Implementacion
         {
             IQueryable<Venta> query = await _repositorioVenta.Consultar();
             fechaInicio = fechaInicio == null ? "" : fechaInicio;
-            fechaInicio = fechaFin == null ? "" : fechaFin;
+            fechaFin = fechaFin == null ? "" : fechaFin;
 
             if(fechaInicio != "" && fechaFin != "")
             {
-                DateTime fecha_inicio = DateTime.ParseExact(fechaInicio, "dd/MM/yyy", new CultureInfo("es-CO"));
-                DateTime fecha_fin = DateTime.ParseExact(fechaFin, "dd/MM/yyy", new CultureInfo("es-CO"));
+                DateTime fecha_inicio = DateTime.ParseExact(fechaInicio, "dd/MM/yyyy", new CultureInfo("es-CO"));
+                DateTime fecha_fin = DateTime.ParseExact(fechaFin, "dd/MM/yyyy", new CultureInfo("es-CO"));
 
                 return query.Where(v =>
                     v.FechaRegistro.Value.Date >= fecha_inicio.Date &&

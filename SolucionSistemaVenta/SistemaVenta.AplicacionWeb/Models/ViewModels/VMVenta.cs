@@ -28,7 +28,7 @@ namespace SistemaVenta.AplicacionWeb.Models.ViewModels
 
         public string? FechaRegistro { get; set; }
 
-        [JsonIgnore] // agregado para romper bug de referencia en bluce infinito con respuesta 500
+        // se retiro la directiva "[JsonIgnore]" que arreglaba bug de error 500 perpetuo, pero creaba nuevo bug al solicitar el metodo historial del controlador venta {devolvia array vacio}
         public virtual ICollection<DetalleVenta> DetalleVenta { get; set; } = new List<DetalleVenta>();
 
     }

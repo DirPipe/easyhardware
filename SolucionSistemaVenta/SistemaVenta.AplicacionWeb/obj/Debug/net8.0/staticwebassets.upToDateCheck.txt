@@ -13,6 +13,7 @@ wwwroot\js\vistas\Categoria_Index.js
 wwwroot\js\vistas\chart-bar-demo.js
 wwwroot\js\vistas\chart-pie-demo.js
 wwwroot\js\vistas\datatables-demo.js
+wwwroot\js\vistas\Historial_Venta.js
 wwwroot\js\vistas\Negocio_Index.js
 wwwroot\js\vistas\Nueva_Venta.js
 wwwroot\js\vistas\Producto_Index.js
