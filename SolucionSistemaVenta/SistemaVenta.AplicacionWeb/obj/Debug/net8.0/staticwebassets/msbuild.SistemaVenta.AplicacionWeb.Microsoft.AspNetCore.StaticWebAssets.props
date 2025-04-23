@@ -252,6 +252,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\chart-pie-demo.js'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\DashBoard_Index.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>SistemaVenta.AplicacionWeb</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/SistemaVenta.AplicacionWeb</BasePath>
+      <RelativePath>js/vistas/DashBoard_Index.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>k5rzb3lzdq</Fingerprint>
+      <Integrity>yKQoPFWWj5TLYeTGCSN2NDjwzPzxv3RZcesvxbldEZ8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\DashBoard_Index.js'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\datatables-demo.js'))">
       <SourceType>Package</SourceType>
       <SourceId>SistemaVenta.AplicacionWeb</SourceId>
@@ -354,8 +372,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>oetz6o4cnf</Fingerprint>
-      <Integrity>oOWcgumSFqIctUviMtdYBC5ch0jlc2gv8a/UrozrxaI=</Integrity>
+      <Fingerprint>5ajanr6ge3</Fingerprint>
+      <Integrity>HaM8wE1GTV56lCxe5aSjMSLA0vTFvxjfOP7U/lDviP0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\Reporte_Index.js'))</OriginalItemSpec>
