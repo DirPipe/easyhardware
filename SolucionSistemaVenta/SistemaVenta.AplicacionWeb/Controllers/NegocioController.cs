@@ -1,7 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-
-
-using AutoMapper;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using SistemaVenta.AplicacionWeb.Models.ViewModels;
 using SistemaVenta.AplicacionWeb.Utilidades.Response;
@@ -10,6 +9,7 @@ using SistemaVenta.Entity;
 
 namespace SistemaVenta.AplicacionWeb.Controllers
 {
+    [Authorize]
     public class NegocioController : Controller
     {
 
