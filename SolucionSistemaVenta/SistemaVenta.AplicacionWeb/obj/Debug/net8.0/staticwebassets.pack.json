@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\js\\vistas\\Historial_Venta.js"
     },
     {
+      "Id": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Home_Perfil.js",
+      "PackagePath": "staticwebassets\\js\\vistas\\Home_Perfil.js"
+    },
+    {
       "Id": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Negocio_Index.js",
       "PackagePath": "staticwebassets\\js\\vistas\\Negocio_Index.js"
     },

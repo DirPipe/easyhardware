@@ -1233,6 +1233,88 @@
       ]
     },
     {
+      "Route": "js/vistas/Home_Perfil.js",
+      "AssetFile": "js/vistas/Home_Perfil.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kaTtE90Acr7oUYoDRKj/zN0LdACcXAq/rnpwESNsr6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 20:36:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kaTtE90Acr7oUYoDRKj/zN0LdACcXAq/rnpwESNsr6Y="
+        }
+      ]
+    },
+    {
+      "Route": "js/vistas/Home_Perfil.znl3jabv7y.js",
+      "AssetFile": "js/vistas/Home_Perfil.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4206"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kaTtE90Acr7oUYoDRKj/zN0LdACcXAq/rnpwESNsr6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 23 Apr 2025 20:36:23 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "znl3jabv7y"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kaTtE90Acr7oUYoDRKj/zN0LdACcXAq/rnpwESNsr6Y="
+        },
+        {
+          "Name": "label",
+          "Value": "js/vistas/Home_Perfil.js"
+        }
+      ]
+    },
+    {
       "Route": "js/vistas/Negocio_Index.j6mstdbisp.js",
       "AssetFile": "js/vistas/Negocio_Index.js",
       "Selectors": [],
