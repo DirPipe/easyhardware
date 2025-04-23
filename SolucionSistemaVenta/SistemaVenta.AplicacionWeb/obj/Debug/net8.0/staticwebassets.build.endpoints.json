@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "SistemaVenta.AplicacionWeb.pjjat8t9sc.styles.css",
+      "Route": "SistemaVenta.AplicacionWeb.596s8jskw4.styles.css",
       "AssetFile": "SistemaVenta.AplicacionWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1144"
+          "Value": "1150"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ixGbb7ea4l2VLcW84Ro0v3BYW5cS/B0ZN72MGEYHvEY=\""
+          "Value": "\"V/3h9N6OLFXsFh1IKq9rqsQBIL71U/6vNc+1IWH6ewE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 15:53:52 GMT"
+          "Value": "Wed, 23 Apr 2025 21:05:42 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "pjjat8t9sc"
+          "Value": "596s8jskw4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ixGbb7ea4l2VLcW84Ro0v3BYW5cS/B0ZN72MGEYHvEY="
+          "Value": "sha256-V/3h9N6OLFXsFh1IKq9rqsQBIL71U/6vNc+1IWH6ewE="
         },
         {
           "Name": "label",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1144"
+          "Value": "1150"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ixGbb7ea4l2VLcW84Ro0v3BYW5cS/B0ZN72MGEYHvEY=\""
+          "Value": "\"V/3h9N6OLFXsFh1IKq9rqsQBIL71U/6vNc+1IWH6ewE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 21 Apr 2025 15:53:52 GMT"
+          "Value": "Wed, 23 Apr 2025 21:05:42 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ixGbb7ea4l2VLcW84Ro0v3BYW5cS/B0ZN72MGEYHvEY="
+          "Value": "sha256-V/3h9N6OLFXsFh1IKq9rqsQBIL71U/6vNc+1IWH6ewE="
         }
       ]
     },

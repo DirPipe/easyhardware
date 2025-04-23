@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Mi Tienda - @ViewData["Title"]</title>
+    <title>EasyHardware  - @ViewData["Title"]</title>
 
     <!-- Custom fonts for this template-->
     <link href="~/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -32,76 +32,78 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="#">
                 <div class="sidebar-brand-icon">
-                    <i class="fas fa-desktop"></i>
+                    <i class="fas fa-hammer"></i>
                 </div>
-                <div class="sidebar-brand-text mx-3">MI TIENDA</div>
+                <div class="sidebar-brand-text mx-3">EASYHARDWARE</div>
             </a>
 
             <!-- Divider -->
             <hr class="sidebar-divider my-0">
 
+
+            @await Component.InvokeAsync("Menu")
             <!-- Nav Item - Dashboard -->
-            <li class="nav-item">
-                <a class="nav-link" href="@Url.Action("Index", "DashBoard")">
-                    <i class="fas fa-fw fa-tachometer-alt"></i>
-                    <span>Dashboard</span>
-                </a>
-            </li>
+            @* <li class="nav-item"> *@
+            @*     <a class="nav-link" href="@Url.Action("Index", "DashBoard")"> *@
+            @*         <i class="fas fa-fw fa-tachometer-alt"></i> *@
+            @*         <span>Dashboard</span> *@
+            @*     </a> *@
+            @* </li> *@
 
             <!-- Nav Item - Administración Collapse Menu -->
-            <li class="nav-item">
-                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseAdministracion">
-                    <i class="fas fa-fw fa-cog"></i>
-                    <span>Administración</span>
-                </a>
-                <div id="collapseAdministracion" class="collapse" data-parent="#accordionSidebar">
-                    <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="@Url.Action("Index","Usuario")">Usuarios</a>
-                        <a class="collapse-item" href="@Url.Action("Index","Negocio")">Negocio</a>
-                    </div>
-                </div>
-            </li>
+            @* <li class="nav-item"> *@
+            @*     <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseAdministracion"> *@
+            @*         <i class="fas fa-fw fa-cog"></i> *@
+            @*         <span>Administración</span> *@
+            @*     </a> *@
+            @*     <div id="collapseAdministracion" class="collapse" data-parent="#accordionSidebar"> *@
+            @*         <div class="bg-white py-2 collapse-inner rounded"> *@
+            @*             <a class="collapse-item" href="@Url.Action("Index","Usuario")">Usuarios</a> *@
+            @*             <a class="collapse-item" href="@Url.Action("Index","Negocio")">Negocio</a> *@
+            @*         </div> *@
+            @*     </div> *@
+            @* </li> *@
 
             <!-- Nav Item - Inventario Collapse Menu -->
-            <li class="nav-item">
-                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseInventario">
-                    <i class="fas fa-fw fa-clipboard-list"></i>
-                    <span>Inventario</span>
-                </a>
-                <div id="collapseInventario" class="collapse" data-parent="#accordionSidebar">
-                    <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="@Url.Action("Index","Categorias")">Categorias</a>
-                        <a class="collapse-item" href="@Url.Action("Index","Productos")">Productos</a>
-                    </div>
-                </div>
-            </li>
+            @* <li class="nav-item"> *@
+            @*     <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseInventario"> *@
+            @*         <i class="fas fa-fw fa-clipboard-list"></i> *@
+            @*         <span>Inventario</span> *@
+            @*     </a> *@
+            @*     <div id="collapseInventario" class="collapse" data-parent="#accordionSidebar"> *@
+            @*         <div class="bg-white py-2 collapse-inner rounded"> *@
+            @*             <a class="collapse-item" href="@Url.Action("Index","Categorias")">Categorias</a> *@
+            @*             <a class="collapse-item" href="@Url.Action("Index","Productos")">Productos</a> *@
+            @*         </div> *@
+            @*     </div> *@
+            @* </li> *@
 
             <!-- Nav Item - Venta Collapse Menu -->
-            <li class="nav-item">
-                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseVenta">
-                    <i class="fas fa-fw fa-tags"></i>
-                    <span>Ventas</span>
-                </a>
-                <div id="collapseVenta" class="collapse" data-parent="#accordionSidebar">
-                    <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="@Url.Action("NuevaVenta","Venta")">Nueva Venta</a>
-                        <a class="collapse-item" href="@Url.Action("HistorialVenta","Venta")">Historial Venta</a>
-                    </div>
-                </div>
-            </li>
+            @* <li class="nav-item"> *@
+            @*     <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseVenta"> *@
+            @*         <i class="fas fa-fw fa-tags"></i> *@
+            @*         <span>Ventas</span> *@
+            @*     </a> *@
+            @*     <div id="collapseVenta" class="collapse" data-parent="#accordionSidebar"> *@
+            @*         <div class="bg-white py-2 collapse-inner rounded"> *@
+            @*             <a class="collapse-item" href="@Url.Action("NuevaVenta","Venta")">Nueva Venta</a> *@
+            @*             <a class="collapse-item" href="@Url.Action("HistorialVenta","Venta")">Historial Venta</a> *@
+            @*         </div> *@
+            @*     </div> *@
+            @* </li> *@
 
             <!-- Nav Item - Reportes Collapse Menu -->
-            <li class="nav-item">
-                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseReportes">
-                    <i class="fas fa-fw fa-chart-area"></i>
-                    <span>Reportes</span>
-                </a>
-                <div id="collapseReportes" class="collapse" data-parent="#accordionSidebar">
-                    <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="@Url.Action("Index","Reporte")">Reporte de Ventas</a>
-                    </div>
-                </div>
-            </li>
+            @* <li class="nav-item"> *@
+            @*     <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseReportes"> *@
+            @*         <i class="fas fa-fw fa-chart-area"></i> *@
+            @*         <span>Reportes</span> *@
+            @*     </a> *@
+            @*     <div id="collapseReportes" class="collapse" data-parent="#accordionSidebar"> *@
+            @*         <div class="bg-white py-2 collapse-inner rounded"> *@
+            @*             <a class="collapse-item" href="@Url.Action("Index","Reporte")">Reporte de Ventas</a> *@
+            @*         </div> *@
+            @*     </div> *@
+            @* </li> *@
 
             <!-- Divider -->
             <hr class="sidebar-divider">

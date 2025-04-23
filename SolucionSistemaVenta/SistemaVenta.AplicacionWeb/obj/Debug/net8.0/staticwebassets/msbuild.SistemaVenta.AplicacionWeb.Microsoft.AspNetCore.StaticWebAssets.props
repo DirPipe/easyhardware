@@ -828,23 +828,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\scss\_variables.scss'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SistemaVenta.AplicacionWeb.pjjat8t9sc.bundle.scp.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SistemaVenta.AplicacionWeb.596s8jskw4.bundle.scp.css'))">
       <SourceType>Package</SourceType>
       <SourceId>SistemaVenta.AplicacionWeb</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/SistemaVenta.AplicacionWeb</BasePath>
-      <RelativePath>SistemaVenta.AplicacionWeb.pjjat8t9sc.bundle.scp.css</RelativePath>
+      <RelativePath>SistemaVenta.AplicacionWeb.596s8jskw4.bundle.scp.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>Reference</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ProjectBundle</AssetTraitValue>
-      <Fingerprint>pjjat8t9sc</Fingerprint>
-      <Integrity>ixGbb7ea4l2VLcW84Ro0v3BYW5cS/B0ZN72MGEYHvEY=</Integrity>
+      <Fingerprint>596s8jskw4</Fingerprint>
+      <Integrity>V/3h9N6OLFXsFh1IKq9rqsQBIL71U/6vNc+1IWH6ewE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SistemaVenta.AplicacionWeb.pjjat8t9sc.bundle.scp.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\SistemaVenta.AplicacionWeb.596s8jskw4.bundle.scp.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\vendor\bootstrap\js\bootstrap.js'))">
       <SourceType>Package</SourceType>
