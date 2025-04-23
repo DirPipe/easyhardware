@@ -3,6 +3,6 @@
     public class VMPDFVenta
     {
         public VMNegocio? negocio { get; set; }
-        public VMNegocio? venta { get; set; }
+        public VMVenta? venta { get; set; }
     }
 }

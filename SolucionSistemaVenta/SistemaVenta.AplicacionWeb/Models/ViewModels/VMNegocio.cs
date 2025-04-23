@@ -1,4 +1,5 @@
-﻿namespace SistemaVenta.AplicacionWeb.Models.ViewModels
+﻿
+namespace SistemaVenta.AplicacionWeb.Models.ViewModels
 {
     public class VMNegocio
     {
@@ -21,5 +22,7 @@
         public decimal? PorcentajeImpuesto { get; set; }
 
         public string? SimboloMoneda { get; set; }
+
+        
     }
 }

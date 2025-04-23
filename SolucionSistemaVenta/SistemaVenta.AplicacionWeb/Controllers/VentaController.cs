@@ -6,6 +6,9 @@ using SistemaVenta.AplicacionWeb.Utilidades.Response;
 using SistemaVenta.BLL.Interfaces;
 using SistemaVenta.Entity;
 
+using DinkToPdf;
+using DinkToPdf.Contracts;
+
 namespace SistemaVenta.AplicacionWeb.Controllers
 {
     public class VentaController : Controller
@@ -13,13 +16,14 @@ namespace SistemaVenta.AplicacionWeb.Controllers
         private readonly ITipoDocumentoVentaService _tipoDocumentoVentaServicio;
         private readonly IVentaService _ventaServicio;
         private readonly IMapper _mapper;
+        private readonly IConverter _converter;
 
-        public VentaController(ITipoDocumentoVentaService tipoDocumentoVentaServicio, IVentaService ventaServicio, IMapper mapper)
+        public VentaController(ITipoDocumentoVentaService tipoDocumentoVentaServicio, IVentaService ventaServicio, IMapper mapper, IConverter converter)
         {
             _tipoDocumentoVentaServicio = tipoDocumentoVentaServicio;
             _ventaServicio = ventaServicio;
             _mapper = mapper;
-
+            _converter = converter;
         }
 
         public IActionResult NuevaVenta()
@@ -83,6 +87,31 @@ namespace SistemaVenta.AplicacionWeb.Controllers
             return StatusCode(StatusCodes.Status200OK, vmHistorialVenta);
         }
 
+
+        public IActionResult MostrarPDFVenta(string numeroVenta)
+        {
+            string urlPlantillaVista = $"{this.Request.Scheme}://{this.Request.Host}/Plantilla/PDFVenta?numeroVenta={numeroVenta}";
+
+            var pdf = new HtmlToPdfDocument()
+            {
+                GlobalSettings = new GlobalSettings()
+                {
+                    PaperSize = PaperKind.A4,
+                    Orientation = Orientation.Portrait,
+                },
+                Objects = {
+                    new ObjectSettings(){
+                        Page = urlPlantillaVista
+                    }
+                }
+            };
+
+            var archivoPDF = _converter.Convert(pdf);
+
+            return File(archivoPDF, "application/pdf");
+
+
+        }
 
 
 

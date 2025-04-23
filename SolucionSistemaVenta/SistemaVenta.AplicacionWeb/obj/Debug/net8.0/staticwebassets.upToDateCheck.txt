@@ -17,6 +17,7 @@ wwwroot\js\vistas\Historial_Venta.js
 wwwroot\js\vistas\Negocio_Index.js
 wwwroot\js\vistas\Nueva_Venta.js
 wwwroot\js\vistas\Producto_Index.js
+wwwroot\js\vistas\Reporte_Index.js
 wwwroot\js\vistas\Usuario_Index.js
 wwwroot\scss\_buttons.scss
 wwwroot\scss\_cards.scss

@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\reporte_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\reporte_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\historial_venta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\historial_venta.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\reporte\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\venta\\historialventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\venta\\historialventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\plantilla\\pdfventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\plantilla\\pdfventa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\categoria_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\wwwroot\\js\\vistas\\categoria_index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B978841-826B-44ED-B40B-70F21A662121}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B978841-826B-44ED-B40B-70F21A662121}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\ventacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B978841-826B-44ED-B40B-70F21A662121}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.bll\\implementacion\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B978841-826B-44ED-B40B-70F21A662121}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\implementacion\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\controllers\\plantillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\controllers\\plantillacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmpdfventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmpdfventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|c:\\users\\luisf\\desktop\\proyectoweb2\\solucionsistemaventa\\sistemaventa.aplicacionweb\\models\\viewmodels\\vmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{118F1900-3E9D-4155-824E-E35CE1631621}|SistemaVenta.AplicacionWeb\\SistemaVenta.AplicacionWeb.csproj|solutionrelative:sistemaventa.aplicacionweb\\models\\viewmodels\\vmventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,22 +58,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Historial_Venta.js",
-              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
-              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAGIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-04-22T16:46:15.431Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -80,68 +90,155 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VMVenta.cs",
-              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
-              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAmwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:23:03.973Z",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAGQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:45:17.339Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Program.cs",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:20:47.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "VentaService.cs",
               "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\VentaService.cs",
               "RelativeDocumentMoniker": "SistemaVenta.BLL\\Implementacion\\VentaService.cs",
               "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.BLL\\Implementacion\\VentaService.cs",
               "RelativeToolTip": "SistemaVenta.BLL\\Implementacion\\VentaService.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwDkAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwGEAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T17:22:21.057Z",
+              "WhenOpened": "2025-04-23T15:31:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria_Index.js",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Categoria_Index.js",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Categoria_Index.js",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Categoria_Index.js",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Categoria_Index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-23T15:28:24.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Reporte\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T15:25:07.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reporte_Index.js",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Reporte_Index.js",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Reporte_Index.js",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Reporte_Index.js",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Reporte_Index.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-23T15:24:44.07Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "VentaController.cs",
-              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
-              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowFAAAAAXAAAAAAAAAA==",
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T17:05:29.994Z",
+              "WhenOpened": "2025-04-23T15:18:19.883Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HistorialVenta.cshtml",
-              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Venta\\HistorialVenta.cshtml",
-              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Venta\\HistorialVenta.cshtml",
-              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Venta\\HistorialVenta.cshtml",
-              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Venta\\HistorialVenta.cshtml",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKEAAAAdAAAAAAAAAA==",
+              "Title": "PDFVenta.cshtml",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\PDFVenta.cshtml",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\PDFVenta.cshtml",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Views\\Plantilla\\PDFVenta.cshtml",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Views\\Plantilla\\PDFVenta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T16:46:26.998Z",
+              "WhenOpened": "2025-04-22T19:57:04.02Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Historial_Venta.js",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\wwwroot\\js\\vistas\\Historial_Venta.js",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-22T19:48:37.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentaController.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\VentaController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA+wGUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:36:38.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VMPDFVenta.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMPDFVenta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMPDFVenta.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMPDFVenta.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMPDFVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:35:03.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VMVenta.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Models\\ViewModels\\VMVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T19:34:16.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlantillaController.cs",
+              "DocumentMoniker": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "ToolTip": "C:\\Users\\luisf\\Desktop\\ProyectoWeb2\\SolucionSistemaVenta\\SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "RelativeToolTip": "SistemaVenta.AplicacionWeb\\Controllers\\PlantillaController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T18:55:01.753Z"
             }
           ]
         },

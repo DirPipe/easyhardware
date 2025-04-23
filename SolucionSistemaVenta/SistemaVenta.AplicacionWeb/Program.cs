@@ -1,6 +1,12 @@
 using SistemaVenta.AplicacionWeb.Utilidades.Automapper;
 using SistemaVenta.IOC;
 using System.Text.Json.Serialization;
+using SistemaVenta.AplicacionWeb.Utilidades.Extensiones;
+using DinkToPdf;
+using DinkToPdf.Contracts;
+
+
+
 namespace SistemaVenta.AplicacionWeb
 {
     public class Program
@@ -27,6 +33,11 @@ namespace SistemaVenta.AplicacionWeb
             // Configuración de AutoMapper
             builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
+            var context = new CustomAssemblyLoadContext();
+            //context.LoadUnmanagedLibrary(Path.Combine(AppContext.BaseDirectory, "libwkhtmltox.dll"));
+            context.LoadUnmanagedLibrary(Path.Combine(Directory.GetCurrentDirectory(), "Utilidades/LibreriaPDF/libwkhtmltox.dll"));
+            //builder.Services.AddSingleton<IConverter, SynchronizedConverter>(provider => new SynchronizedConverter(new PdfTools()));
+            builder.Services.AddSingleton(typeof(IConverter), new SynchronizedConverter(new PdfTools()));
 
 
             var app = builder.Build();

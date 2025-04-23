@@ -94,8 +94,8 @@ namespace SistemaVenta.BLL.Implementacion
 
         public async Task<List<DetalleVenta>> Reporte(string fechaInicio, string fechaFin)
         {
-            DateTime fecha_inicio = DateTime.ParseExact(fechaInicio, "dd/MM/yyy", new CultureInfo("es-CO"));
-            DateTime fecha_fin = DateTime.ParseExact(fechaFin, "dd/MM/yyy", new CultureInfo("es-CO"));
+            DateTime fecha_inicio = DateTime.ParseExact(fechaInicio, "dd/MM/yyyy", new CultureInfo("es-CO"));
+            DateTime fecha_fin = DateTime.ParseExact(fechaFin, "dd/MM/yyyy", new CultureInfo("es-CO"));
 
             List<DetalleVenta> lista = await _repositorioVenta.Reporte(fecha_inicio, fecha_fin);
 
