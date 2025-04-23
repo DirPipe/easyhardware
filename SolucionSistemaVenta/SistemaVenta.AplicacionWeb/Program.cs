@@ -5,6 +5,7 @@ using SistemaVenta.AplicacionWeb.Utilidades.Extensiones;
 using DinkToPdf;
 using DinkToPdf.Contracts;
 
+using Microsoft.AspNetCore.Authentication.Cookies;
 
 
 namespace SistemaVenta.AplicacionWeb
@@ -26,6 +27,14 @@ namespace SistemaVenta.AplicacionWeb
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            // Configuración de autenticación
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(option =>
+                {
+                    option.LoginPath = "/Acceso/Login";
+                    option.ExpireTimeSpan = TimeSpan.FromMinutes(20);
+                });
 
             // Configuración de la cadena de conexión
             builder.Services.InyectarDependencia(builder.Configuration);
@@ -55,11 +64,13 @@ namespace SistemaVenta.AplicacionWeb
 
             app.UseRouting();
 
+            app.UseAuthentication();
+
             app.UseAuthorization();
 
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Acceso}/{action=Login}/{id?}");
 
             app.Run();
         }

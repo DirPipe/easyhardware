@@ -290,7 +290,7 @@ namespace SistemaVenta.BLL.Implementacion
                 bool correo_enviado = false;
 
                 if (htmlCorreo != "")
-                    await _correoService.EnviarCorreo(Correo, "Contraseña Establecida", htmlCorreo);
+                   correo_enviado = await _correoService.EnviarCorreo(Correo, "Contraseña Establecida", htmlCorreo);
                 
                 if(!correo_enviado)
                     throw new TaskCanceledException("Hay un error. Por favor intentar de nuevo mas tarde");

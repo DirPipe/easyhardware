@@ -264,8 +264,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>k5rzb3lzdq</Fingerprint>
-      <Integrity>yKQoPFWWj5TLYeTGCSN2NDjwzPzxv3RZcesvxbldEZ8=</Integrity>
+      <Fingerprint>aq8nb6bdg8</Fingerprint>
+      <Integrity>DsHGM0R00Gr/ZHJvkyudqLS58nLoQyAU6MQ9hWccBz0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\DashBoard_Index.js'))</OriginalItemSpec>

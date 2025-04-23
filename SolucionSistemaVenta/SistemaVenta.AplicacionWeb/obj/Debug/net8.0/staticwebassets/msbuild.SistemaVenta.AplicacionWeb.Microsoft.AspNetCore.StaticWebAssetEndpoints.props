@@ -168,17 +168,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kdp0nvrYxiwC8S773OdGJOkP4uGzaIAPYYWZ/TIR0YE="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1166"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022kdp0nvrYxiwC8S773OdGJOkP4uGzaIAPYYWZ/TIR0YE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 16 Apr 2025 18:27:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SistemaVenta.AplicacionWeb/js/vistas/DashBoard_Index.aq8nb6bdg8.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\DashBoard_Index.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aq8nb6bdg8"},{"Name":"integrity","Value":"sha256-DsHGM0R00Gr/ZHJvkyudqLS58nLoQyAU6MQ9hWccBz0="},{"Name":"label","Value":"_content/SistemaVenta.AplicacionWeb/js/vistas/DashBoard_Index.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4826"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022DsHGM0R00Gr/ZHJvkyudqLS58nLoQyAU6MQ9hWccBz0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:11:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SistemaVenta.AplicacionWeb/js/vistas/DashBoard_Index.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\DashBoard_Index.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yKQoPFWWj5TLYeTGCSN2NDjwzPzxv3RZcesvxbldEZ8="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3358"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yKQoPFWWj5TLYeTGCSN2NDjwzPzxv3RZcesvxbldEZ8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:00:58 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/SistemaVenta.AplicacionWeb/js/vistas/DashBoard_Index.k5rzb3lzdq.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\DashBoard_Index.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k5rzb3lzdq"},{"Name":"integrity","Value":"sha256-yKQoPFWWj5TLYeTGCSN2NDjwzPzxv3RZcesvxbldEZ8="},{"Name":"label","Value":"_content/SistemaVenta.AplicacionWeb/js/vistas/DashBoard_Index.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3358"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yKQoPFWWj5TLYeTGCSN2NDjwzPzxv3RZcesvxbldEZ8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:00:58 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DsHGM0R00Gr/ZHJvkyudqLS58nLoQyAU6MQ9hWccBz0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4826"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022DsHGM0R00Gr/ZHJvkyudqLS58nLoQyAU6MQ9hWccBz0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 23 Apr 2025 17:11:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/SistemaVenta.AplicacionWeb/js/vistas/datatables-demo.2j3uyuorf2.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\vistas\datatables-demo.js'))</AssetFile>
